@@ -1,0 +1,10 @@
+{
+  "model": "Transformer Encoder",
+  "test_accuracy": 0.9123684210526316,
+  "macro_precision": 0.9126019763273018,
+  "macro_recall": 0.9123684210526316,
+  "macro_f1": 0.9121199344416002,
+  "best_validation_accuracy": 0.9121666666666667,
+  "training_seconds": 540.3579015731812,
+  "inference_seconds": 3.246634006500244
+}

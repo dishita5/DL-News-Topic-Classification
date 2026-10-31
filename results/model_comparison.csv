@@ -1,0 +1,5 @@
+Model,Test Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1 (%),Best Validation Accuracy (%),Training Time (sec),Inference Time (sec)
+MLP,91.49,91.51,91.49,91.48,0.0,423.8,9.22
+1D-CNN,91.29,91.33,91.29,91.29,91.56,468.9,3.16
+LSTM,91.03,91.03,91.03,91.02,91.19,494.8,3.19
+Transformer Encoder,91.24,91.26,91.24,91.21,91.22,540.4,3.25

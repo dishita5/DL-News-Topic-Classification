@@ -1,0 +1,12 @@
+{
+  "model": "LSTM",
+  "test_accuracy": 0.9102631578947369,
+  "macro_precision": 0.910290566180954,
+  "macro_recall": 0.9102631578947369,
+  "macro_f1": 0.9101962305410529,
+  "best_validation_accuracy": 0.9119166666666667,
+  "training_seconds": 494.8495247364044,
+  "inference_seconds": 3.1852798461914062,
+  "epochs": 5,
+  "seed": 42
+}

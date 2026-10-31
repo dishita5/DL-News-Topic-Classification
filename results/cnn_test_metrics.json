@@ -1,0 +1,12 @@
+{
+  "model": "1D-CNN",
+  "test_accuracy": 0.9128947368421053,
+  "macro_precision": 0.9133470341029035,
+  "macro_recall": 0.9128947368421053,
+  "macro_f1": 0.912870308628325,
+  "best_validation_accuracy": 0.9155833333333333,
+  "training_seconds": 468.873318195343,
+  "inference_seconds": 3.159146547317505,
+  "epochs": 5,
+  "seed": 42
+}

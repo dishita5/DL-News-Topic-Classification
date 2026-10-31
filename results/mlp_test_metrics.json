@@ -1,0 +1,12 @@
+{
+  "model": "MLP",
+  "test_accuracy": 0.9148684210526316,
+  "macro_precision": 0.9151207961732141,
+  "macro_recall": 0.9148684210526316,
+  "macro_f1": 0.9147894689393474,
+  "training_seconds": 423.76957416534424,
+  "inference_seconds": 9.221933126449585,
+  "epochs": 5,
+  "seed": 42,
+  "best_validation_accuracy": 0.9165
+}
